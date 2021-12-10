@@ -6,7 +6,7 @@ SECure is committed to alleviating poverty across the globe through Cybersecurit
 
 Through SECure, clients can fulfill all of these requirements in preparation for entering the Cybersecurity field in a much more economical and efficient way.  We provide low-cost courses, exposure to experts and mentors in the field, and specialized tracks to gain certifications in Cybersecurity.  Clients will not only SECure a career in a high demanding and growing industry, but help SECure the virtual world as we know it.
 
-Created for Superhacks 2021
+Created for Social Impact Hackathon: Democratizing Education in Technology - Awarded 2nd Place
 
 ## Usage Insructions 
 
